@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person>
+    <firstName>James</firstName>
+    <lastName>Gordon</lastName>
+    <birthDate>12/12/1988</birthDate>
+    <address>
+      <street>123 Flowers and Fairies Drive</street>
+      <city>Northsaw</city>
+      <state>MI</state>
+      <zipCode>34333</zipCode>
+    </address>
+  </person>
+  <person>
+    <firstName>Janice</firstName>
+    <lastName>Smithson</lastName>
+    <birthDate>05/14/1993</birthDate>
+    <address>
+      <street>32 NW Highway 32</street>
+      <city>Redman</city>
+      <state>AZ</state>
+      <zipCode>45675</zipCode>
+    </address>
+  </person>
+  <person>
+    <firstName>Shana</firstName>
+    <lastName>Keller</lastName>
+    <birthDate>10/12/1956</birthDate>
+    <address>
+      <street>43 North Street</street>
+      <city>Gamble</city>
+      <state>NV</state>
+      <zipCode>55444</zipCode>
+    </address>
+  </person>
+  <person>
+    <firstName>John</firstName>
+    <lastName>Smithson</lastName>
+    <birthDate>09/24/1993</birthDate>
+    <address>
+      <street>PO Box 12</street>
+      <city>Redman</city>
+      <state>AZ</state>
+      <zipCode>45675</zipCode>
+    </address>
+  </person>
+</people>
